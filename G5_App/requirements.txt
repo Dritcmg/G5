@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlalchemy
+plotly
+fpdf
+openpyxl
+altair
+watchdog
